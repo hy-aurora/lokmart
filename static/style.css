@@ -6,7 +6,7 @@
   --primary-organisation: black;
   --primary-input-border: #e1e4e8;
   --primary-input-background: #fff;
-  --primary-contact-background: skyblue;
+  --primary-contact-background: rgb(247, 207, 88);
   --primary-faq-background: #5d6a7a;
 }
 
@@ -19,7 +19,7 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #000066;
+  background: #248900;
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -63,7 +63,7 @@ img {
 
 .menu {
   width: 100%;
-  background-color: #000066;
+  background-color: #248900;
   overflow: auto;
 }
 
@@ -80,7 +80,7 @@ img {
 }
 
 .menu ul li a {
-  background: #000066;
+  background: #248900;
   text-decoration: none;
   min-width: 125px;
   display: block;
@@ -185,7 +185,7 @@ marquee {
 }
 
 .menu2 ul li a {
-  background: #000066;
+  background: #248900;
   text-decoration: none;
   width: 150px;
   display: block;
@@ -372,8 +372,8 @@ marquee {
   margin: 25px;
   padding: 10px;
   padding-bottom: 20px;
-  border: 3px solid #000066;
-  box-shadow: #000066 0px 5px 15px;
+  border: 3px solid #248900;
+  box-shadow: #248900 0px 5px 15px;
   width: 350px;
 }
 
@@ -395,17 +395,17 @@ marquee {
 }
 
 .deals a {
-  border: 2px solid #000066;
+  border: 2px solid #248900;
   text-decoration: none;
   padding: 10px;
-  background-color: #000066;
+  background-color: #248900;
   color: white;
   transition: all 0.5s;
 }
 
 .deals a:hover {
   background: none;
-  color: #000066;
+  color: #248900;
 }
 
 #timer1 {
@@ -684,7 +684,7 @@ marquee {
 }
 
 #btnScrollToTop:hover {
-  background-color: #000066;
+  background-color: #248900;
 }
 
 .contact h1 {
@@ -1106,18 +1106,18 @@ details > summary::-webkit-details-marker {
 }
 
 .contact a {
-  border: 2px solid #000066;
+  border: 2px solid #248900;
   text-decoration: none;
   padding: 7px;
   margin-left: 30px;
-  background-color: #000066;
+  background-color: #248900;
   color: white;
   transition: all 0.5s;
 }
 
 .contact a:hover {
   background: none;
-  color: #000066;
+  color: #248900;
 }
 
 @media (max-width: 991px) {
